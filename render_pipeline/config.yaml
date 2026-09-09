@@ -1,0 +1,5 @@
+--- render_pipeline/config.yaml
++++ render_pipeline/config.yaml
+@@ -12,3 +12,3 @@
+- memory_limit: 4G
++ memory_limit: 8G
